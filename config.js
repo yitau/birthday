@@ -28,7 +28,7 @@ var config = {
     imgs: {
         "心爱的酒酒小可爱": "./imgs/2.jpg",
         "我们即使不见亦能不散": "./imgs/1.jpg",
-        "第三个生日哦": "./imgs/xiaokeai.jpg",
+        "第三个生日哦": "./imgs/xiaokeai.png",
         "嘿嘿~": "./imgs/3.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
